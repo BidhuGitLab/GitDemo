@@ -1,4 +1,4 @@
 <%@ page session="false"%>
 <%
-response.sendRedirect("   Welcome helloWorld.jsf");
+response.sendRedirect("   Welcome  to testing and  World.jsf");
 %>
